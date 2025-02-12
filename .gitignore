@@ -1,0 +1,11 @@
+READMe.md
+setup.md
+setup-with-k8s.md
+# Ignore all VS Code settings
+.vscode/
+
+# Ignore JetBrains (WebStorm, PyCharm) settings
+.idea/
+
+# Ignore any specific file
+secret-config.json
